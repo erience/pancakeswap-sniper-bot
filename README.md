@@ -1,3 +1,5 @@
+PANCAKESWAP SNIPER BOT
+
 ### What's the feature
 1 ) Buy
 2 ) Sell
